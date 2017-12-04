@@ -1,0 +1,16 @@
+div.toolbar {
+  background: white;
+  color: #303030;
+  font-weight: normal;
+}
+
+#terminal {
+  background: #424242;
+  color: #e0e0e0;
+}
+
+#commandLineBar {
+  background: #424242;
+  color: #e0e0e0;
+  font-weight: normal;
+}
